@@ -1,5 +1,6 @@
 # SQL-Semana2
 Introdução ao SQL e Consultas Básicas
+
 -- 1. Recuperar checkNumber, paymentDate e amount da tabela payments
 SELECT checkNumber, paymentDate, amount
 FROM payments;
